@@ -3,3 +3,4 @@ Tengo 27 años
 Soy de Argentina
 Me gusta el anime
 Estudio Ingenieria en Computacion en la UNLP
+Hoy estoy viendo el curso de git
