@@ -1,6 +1,7 @@
 Hola soy Laura
 Tengo 27 años
 Soy de Argentina
+Toco el piano y la guitarra
 Me gusta el anime
 Estudio Ingenieria en Computacion en la UNLP
 Hoy estoy viendo el curso de git
