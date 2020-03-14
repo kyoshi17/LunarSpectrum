@@ -1,0 +1,1 @@
+data class Ingrediente(var nombre : String, var cant : Int)
